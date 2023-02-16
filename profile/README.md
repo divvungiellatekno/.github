@@ -4,3 +4,4 @@ The **DivvunGiellatekno** organisation hosts repositories that are only relevant
 - **[GiellaLT](https://github.com/giellalt)** -language resources and their documentation, shared with international collaborators and language communities
 - **[Divvun](https://github.com/divvun)** - language independent technology for which the [Divvun group](https://divvun.no) is responsible
 - **[Giellatekno](https://github.com/giellatekno)** - language independent code and projects for which the [Giellatekno group](https://giellatekno.uit.no) is responsible
+- **[Páhkat](https://github.com/pahkat)** - Package management for languate tools by [Divvun](https://divvun.no) and [Giellatekno](https://giellatekno.uit.no)
