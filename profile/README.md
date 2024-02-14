@@ -6,3 +6,4 @@ The **DivvunGiellatekno** organisation hosts repositories that are only relevant
 - **[Giellatekno](https://github.com/giellatekno)** - language independent code and projects for which the [Giellatekno group](https://giellatekno.uit.no) is responsible
 - **[Páhkat](https://github.com/pahkat)** - Package management for languate tools by [Divvun](https://divvun.no) and [Giellatekno](https://giellatekno.uit.no)
 - **[Borealium](https://github.com/borealium)** - Web portal for language technology tools for small languages in the Nordic countries
+- **[Skuvla](https://github.com/skuvla)** - The home for Sámi School history
